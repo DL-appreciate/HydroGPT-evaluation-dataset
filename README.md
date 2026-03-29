@@ -1,4 +1,4 @@
-# HydroGPT-evaluation-dataset
+# HydroEval
 A large language model capability evaluation set containing 622 Q&amp;A pairs in the field of hydraulic structures.
 
 **The data referenced here corresponds to that of our manuscript, and the relevant dataset will be made publicly available after the manuscript passes peer review.**
