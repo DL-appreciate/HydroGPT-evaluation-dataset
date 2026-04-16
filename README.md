@@ -11,11 +11,19 @@ Contains the key prompts used in this study and a comparison of reasoning perfor
 
 **Contents**
 Prompt 1: Used to build structured domain datasets	2
+
 Prompt 2: Use to construct reasoning datasets for open-source universal datasets	5
+
 Prompt 3: Used to test the performance of various models on professional evaluation sets	6
+
 Prompt 4: Scoring rules for fill-in-the-blank and short answer questions on professional evaluation sets	7
+
 Table A: Examples of model answers not following the specified format	9
+
 Table B: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – True/False	13
+
 Table C: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – Fill-in-the-blank	18
+
 Table D: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – Short answer	24
+
 Table E: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – Multiple-choice	32
